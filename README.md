@@ -1,14 +1,7 @@
-# Evencir — Flutter Test Task
-
-My submission for the Evencir Flutter interview test. This is a fitness and wellness app built from the provided Figma design — dark theme, bottom navigation, and a few screens that tie together a daily health dashboard.
-
-**Repo:** https://github.com/Zarkkhan16/evencir-task
-
----
 
 ## Project Overview
 
-Evencir is a mobile wellness app where users can check their daily stats, log water intake, view upcoming workouts, track mood, and browse their training calendar. The UI follows the Figma mockup closely. Data is handled locally with mock sources — no backend or API calls for this task.
+Evencir is a mobile wellness app where users can check their daily stats, log water intake, view upcoming workouts, track mood, and browse their training calendar.
 
 The app uses BLoC (Cubit) for state management and a feature-based folder structure so each screen owns its own logic.
 
@@ -77,37 +70,3 @@ In short:
 
 ---
 
-## App Screenshots
-
-[View Screenshots](https://drive.google.com/file/d/1FmbHWuKWZmfYbi981RD4YQy5CcA9y5JE/view?usp=sharing)
-
----
-
-## App Demo Video
-
-[Watch Demo Video](https://drive.google.com/file/d/1FmbHWuKWZmfYbi981RD4YQy5CcA9y5JE/view?usp=sharing)
-
----
-
-## APK Download
-
-[Download APK](https://drive.google.com/file/d/11VnEdO3oambHwVHp3TlRDs167NxgvkUt/view?usp=sharing)
-
-Install on any Android device and allow installs from unknown sources if prompted.
-
----
-
-## How to Run the Project
-
-```bash
-git clone https://github.com/Zarkkhan16/evencir-task.git
-cd evencir-task
-flutter pub get
-flutter run
-```
-
-Make sure Flutter is installed and a device/emulator is connected before running.
-
----
-
-Built with Flutter for the Evencir interview test task.
